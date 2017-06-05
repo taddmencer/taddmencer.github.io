@@ -9,7 +9,7 @@
   background-color: $card-bg-color;
 }
 
-.card { 
+.card {
   margin: $element-top-margin 0 $element-bottom-margin 0;
   background-color: $card-bg-color;
   transition: box-shadow .25s;
@@ -141,7 +141,8 @@
     border-radius: 0 0 2px 2px;
 
     p {
-      margin: 0;
+      margin-left: 0;
+      margin-right: 0;
       color: inherit;
     }
     .card-title {
