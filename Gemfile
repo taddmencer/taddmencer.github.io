@@ -20,11 +20,10 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem 'wdm', '~> 0.1.1'
    gem "jekyll-feed", "~> 0.6"
    gem 'jekyll-paginate', '~> 1.1'
-   gem "jekyll-youtube"
-   gem 'jekyll-seo-tag'
+   gem 'jekyll-youtube', '~> 1.0'
+   gem 'jekyll-seo-tag', '~> 2.2', '>= 2.2.3'
    gem 'jekyll-sitemap', '~> 1.1', '>= 1.1.1'
 end
 
