@@ -42,19 +42,21 @@
             object-position: center; /* Center the image within the element */
             height: 176px;
             width: 176px;
-            border-radius: 50%;
-            opacity: 1;
+            border-radius: 50% 50%;
+            @include opacity(1);
             transition: $anim-speed;
         }
     }
 
-    .header-badge:hover{
+    .header-badge:hover {
+        border-radius: 25% 50% 50%;
         transition: $anim-speed;
         @extend .z-depth-5;
 
         img{
-            opacity: 0.7;
+            @include opacity(0.7);
             transition: $anim-speed;
+            border-radius: 25% 50% 50%;
         }
 
     }
@@ -95,13 +97,17 @@
 
             li{
 
-                padding: 15px 0;
+                padding: 15px 10px;
                 border-bottom: #ddd solid 1px;
+                background-color: white;
+                @include transition(all 1s ease-in-out);
 
                 .post-meta{
+                    margin-top: 1%;
                     float:right;
                     color:#ccc;
                     font-size: 14px;
+                    @include transition(all 1s ease-in-out);
                 }
 
                 a{
@@ -109,6 +115,14 @@
                     text-decoration: none;
                     color:#333;
                     font-size: 21px;
+
+                }
+                &:hover {
+                  background-color: lighten($grey-color, 60%);
+
+                  .post-meta{
+                    color: $grey-color-dark;
+                  }
 
                 }
             }
