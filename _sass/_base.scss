@@ -46,6 +46,12 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#825b00',GradientType=0 ); /* IE6-9 */
 }
 
+p {
+  img {
+    max-width: 100%;
+  }
+}
+
 // EX: @include transition(color .3s ease);
 @mixin transition($args...) {
   -webkit-transition: $args;
