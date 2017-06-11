@@ -31,6 +31,10 @@ social:
 
 author: taddmencer
 
+google:
+  tag_manager:
+    container_id: GTM-N38DT75
+
 webmaster_verification:
   google: rOjNEn5n34YuQErB67xJAnL5oxUS0y53d4ft6VtAyjE
 
