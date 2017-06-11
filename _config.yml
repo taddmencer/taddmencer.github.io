@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tadd Mencer
 email: taddmencer01@gmail.com
-description: I am a writer, gamer, blogger, rpg & dnd player, multi-hat wearer, husband, father. Fairly nice guy.
+description: Writer, gamer, blogger, rpg & dnd player, multi-hat wearer, husband, father. Fairly nice guy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taddmencer
