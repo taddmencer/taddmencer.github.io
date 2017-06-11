@@ -17,7 +17,7 @@ title: Tadd Mencer
 email: taddmencer01@gmail.com
 description: Writer, gamer, blogger, rpg & dnd player, multi-hat wearer, husband, father. Fairly nice guy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://taddmencer.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://taddmencer.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taddmencer
 github_username:  taddmencer
 
