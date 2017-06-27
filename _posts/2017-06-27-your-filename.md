@@ -9,4 +9,5 @@ Now, I'm a player within. However, the history of Ebrin and it's five kindoms lu
 
 I have started to build a wiki with all the histories, connections, and intregue I can muster. Perhaps your D&D group will play in this world. You never know what this world holds.
 
-Welcome to: Legends of the 5 Kingdoms.
+Welcome to: 
+**_Legends of the 5 Kingdoms_**.
