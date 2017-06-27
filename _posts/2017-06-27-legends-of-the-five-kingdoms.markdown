@@ -1,5 +1,12 @@
 ---
-published: false
+date: "2017-06-27 12:02:43"
+tags: [Dungeons & Dragons]
+feature: legends_live-here.jpg
+layout: post
+permalink: /legends-of-the-five-kingdoms
+categories:
+  - d&d
+title: Legends of the Five Kingdoms
 ---
 > Once apon a time I lived in a world filled with wonder and life. Now it's war, darkness, hatred, and death.
 
