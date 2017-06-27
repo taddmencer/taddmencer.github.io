@@ -11,3 +11,5 @@ I have started to build a wiki with all the histories, connections, and intregue
 
 Welcome to: 
 **_Legends of the 5 Kingdoms_**.
+
+As I begin building the pages, I'll send out some links for people to view. If you're interested in keeping tabs, please follow my twitter account [@taddmencer](https://twitter.com/taddmencer). You'll get all the fancy updates. 
