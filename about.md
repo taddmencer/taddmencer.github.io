@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-At a previous job I was asked to provide a bio that could be given to clients. It
-didn’t need to be long, but give a brief description of who you are.
+At a previous job, I was asked to provide a bio that could be given to clients. It didn’t need to be long, but give a brief description of who you are.
 
-Since my tendency is to be a fun, silly guy I decided to first give a bio that
-suited my personality before one that suited my actual job description.
+Since my tendency is to be a fun, silly guy I decided to first give a bio that suited my personality before one that suited my actual job description.
 
 >   **Tadd Mencer – Fire Lord**  
 >   Born from the molten lava of a live volcano. His heart beats to the drums of
@@ -20,13 +18,11 @@ suited my personality before one that suited my actual job description.
 >   Naturally, that wasn’t used. A much more professional and business-like text
 >   was sent. However, it was fun to just cut loose.
 
-Naturally, that wasn’t used. A much more professional and business-like text was
-sent. However, it was fun to just cut loose.
+Naturally, that wasn’t used. A much more professional and a business-like text was sent. However, it was fun to just cut loose.
 
 So what is the real version? Who is Tadd Mencer, really?
 
-I’m a creative developer who has worn many hats in his professional career. If I
-was to list them out .. well, let’s list some out in no particular order!
+I’m a creative developer who has worn many hats in his professional career. If I was to list them out ... well, let’s list some out in no particular order!
 
 |
 |-----------------|-------------------|---------------------|------------|
