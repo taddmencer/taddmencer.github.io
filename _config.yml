@@ -40,12 +40,12 @@ webmaster_verification:
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-youtube
-  - jekyll-seo-tag
-  - jekyll-sitemap #https://github.com/jekyll/jekyll-seo-tag
+# gems:
+#   - jekyll-feed
+#   - jekyll-paginate
+#   - jekyll-youtube
+#   - jekyll-seo-tag
+#   - jekyll-sitemap #https://github.com/jekyll/jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
