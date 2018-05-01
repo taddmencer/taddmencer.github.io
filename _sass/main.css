@@ -2671,7 +2671,7 @@ h4 {
     .main-navigation .primary-nav ul {
       display: inline-block;
       padding: 0 20px;
-      transition: all .2s ease-in;
+      transition: background .2s ease-in;
       border-bottom: 0px solid;
       background: none; }
       .main-navigation .primary-nav ul:hover {
@@ -2685,5 +2685,4 @@ h4 {
   background: url("/assets/space-design.jpg") center center no-repeat;
   background-size: cover; }
 
-.About-Me .my-face {
-  border-radius: 0 25px; }
+/*# sourceMappingURL=main.css.map */
