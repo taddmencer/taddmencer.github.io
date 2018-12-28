@@ -11,7 +11,7 @@ An avid storyteller, I am the most thrilled when building worlds and story that 
 
 I take great pleasure in building something to explore. It’s the experience. The thrill of reading or seeing or encountering something unique. 
 
-####PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 
 Game Design/Development & Project Experience
 * Forging interactive low poly 3D game levels using Blender and Unity
