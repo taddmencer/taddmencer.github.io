@@ -32,5 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- a-bit-about-me.md
 - index.md
+- a-bit-about-me.md
