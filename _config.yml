@@ -3,7 +3,7 @@ title: Tadd Mencer
 author: Tadd
 email: tadd@cubelabmedia.com
 description: ''
-baseurl: "/""
+baseurl: "/"
 url: ''
 defaults:
 - scope: ''
