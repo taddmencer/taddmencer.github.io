@@ -1,14 +1,35 @@
----
+#Site Settings
 title: Tadd Mencer
-author: Tadd
-email: tadd@cubelabmedia.com
-description: ''
+author: Tadd Mencer
+description: ""
+url: "http://taddmencer.com"
+author:
+  name: "Tadd Mencer"
+  email: "tadd@cubelabmedia.com"
+  url: "http://taddmencer.com"
+
+version: "1.0"
+
+#Build Settings
 baseurl: "/"
-url: ''
-defaults:
-- scope: ''
-  values: ''
 markdown: kramdown
+source: .
+destination: ./site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
 gems:
 - jekyll-feed
 - jekyll-menus
+- jekyll-paginate
