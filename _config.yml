@@ -5,16 +5,17 @@ canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Tadd Mencer
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Story Teller & Creator"
+  email:          taddmencer01@gmail.com
+  twitter:        taddmencer
+  github:         taddmencer
+  linkedin:         taddmencer
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       "Grand Rapids, MI"
   # Plug in your disqus shortname!
 
 tools:
@@ -30,11 +31,10 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Articles
+    url: /articles
+  - title: CubeLab Media
+    url: http://cubelabmedia.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
