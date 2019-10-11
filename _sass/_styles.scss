@@ -846,11 +846,7 @@ footer {
     margin-left: 0;
     top: 0px;
     font-size: $fs5;
-    :last-child {
-        border-left: solid #fff;
-        padding-left: 15px;
     }
-  }
   
   header.site-header nav ul li a {
     display: block;
@@ -867,6 +863,9 @@ footer {
     }
     &:hover {
         text-shadow: none;
+    }
+    .external {
+        border-bottom: solid 5px rgba(255,255,255,.15);
     }
   }
   
