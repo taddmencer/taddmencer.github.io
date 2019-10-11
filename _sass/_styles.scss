@@ -846,6 +846,10 @@ footer {
     margin-left: 0;
     top: 0px;
     font-size: $fs5;
+    :last-child {
+        border-left: solid #fff;
+        padding-left: 15px;
+    }
   }
   
   header.site-header nav ul li a {
