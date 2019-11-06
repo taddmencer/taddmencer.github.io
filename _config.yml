@@ -2,11 +2,11 @@ title:            Tadd Mencer
 tagline:          Story Teller & World Smith.
 description:      I write stories, do voices, make & play video games, and Dungeons & Dragons. I run Cubelab Media. A father, husband, and generally friendly guy.
 canonical: http://taddmencer.com
-url: http://taddmencer.com
 
 # Owner/author information
 owner:
   name:           Tadd Mencer
+  url:            http://taddmencer.com
   avatar:         avatar.png
   bio:            "Story Teller & World Smith"
   email:          taddmencer01@gmail.com

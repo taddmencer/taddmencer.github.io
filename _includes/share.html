@@ -3,15 +3,15 @@
 
 <!-- Twitter cards metadatas -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@{{site.owner.twitter}}">
-<meta name="twitter:creator" content="@@{{site.owner.twitter}}">
+<meta name="twitter:site" content="@{{ site.owner.twitter }}">
+<meta name="twitter:creator" content="@{{ site.owner.twitter }}">
 {% if page.title %}
   <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
 {% else %}
   <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
 {% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:url" content="{{ site.owner.url }}{{ page.owner.url }}">
 {% endif %}
 {% if page.description %}
   <meta name="twitter:description" content="{{ page.description }}">
@@ -19,5 +19,5 @@
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 {% if page.image.feature %}
-  <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image.feature }}">
+  <meta name="twitter:image:src" content="{{ site.owner.url }}/{{ page.image.feature }}">
 {% endif %}
