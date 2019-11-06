@@ -5,7 +5,7 @@ title: About Tadd
 description: Tech professional by day, creative one-man think tank by night. 
 tags: [about, Tadd, games, design]
 image:
-  feature: soft-trees.jpg
+  feature: about_bg.jpg
 ---
 
 I’ve been constructing websites, generating digital marketing campaigns, and creating games for over twenty years. I have experience in software like Adobe Photoshop, Affinity Designer, Blender 3D, and Unity 3D. I have created game assets for both 2D and 3D games. I have also established branding for products across different media, such as web and print.
