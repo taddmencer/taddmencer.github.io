@@ -1,14 +1,18 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+title: About Tadd
+description: Tech professional by day, creative one-man think tank by night. 
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+I’ve been constructing websites, generating digital marketing campaigns, and creating games for over twenty years. I have experience in software like Adobe Photoshop, Affinity Designer, Blender 3D, and Unity 3D. I have created game assets for both 2D and 3D games. I have also established branding for products across different media, such as web and print.
+
+An avid storyteller, I am the most thrilled when building worlds and story that enthrall and inspire. I love creating deep, lore rich plots and quests for Dungeons & Dragons, or crafting an ecosystem of history for video game use.
+
+I take great pleasure in building something to explore. It’s the experience. The thrill of reading or seeing or encountering something unique.
 
 ### Features
 * flexible, uses max-width for responsive goodness
@@ -17,10 +21,23 @@ This is built on Semantic.gs grid framework which I edited a bit to make it flui
 * post loop in the footer showing 3 latest post
 * custom portfolio page for case studies
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+### PROFESSIONAL EXPERIENCE
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+_Game Design/Development & Project Experience_
+­* Forging interactive low poly 3D game levels using Blender and Unity
+­* Designing UI/UX menus, displays, and assets for in-game utilization
+­* Creating exciting experiences for players including the ideation of characters and obstacles
+­* Utilizing Blender and Unity to create an augmented reality prototype
+­* Designed Circus Big Pop Lite iOS Mobile Game in LUA Language which has been downloaded over 2000 times.
+­* Constructed prototype Project Marcus PC first-person 3D using Unity and Blender 3D
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+_Communications_
+­* Organizing projects with out of country developers for mobile and web use
+­* Weaving multi-plot stories and quests used in Dungeons & Dragons
+­* Possessing strong verbal and written communication skills
+
+_Web and Marketing_
+­* Establishing brand structures for better recognition across multiple platforms and products
+­* Structuring email campaigns that increase user engagement
+­* Constructing mobile web prototypes that utilize modern practices
+ 
