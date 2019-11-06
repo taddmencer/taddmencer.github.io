@@ -22,7 +22,7 @@
 
         {{ content }}
 
-      {{% include share.html %}}
+      {% include share.html %}
 
 
       </article>
