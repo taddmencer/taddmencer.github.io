@@ -3,7 +3,7 @@ layout: post
 permalink: /about/index.html
 title: About Tadd
 description: Tech professional by day, creative one-man think tank by night. 
-tags: [about, Jekyll, theme, responsive]
+tags: [about, Tadd, games, design]
 image:
   feature: soft-trees.jpg
 ---
@@ -13,13 +13,6 @@ I’ve been constructing websites, generating digital marketing campaigns, and c
 An avid storyteller, I am the most thrilled when building worlds and story that enthrall and inspire. I love creating deep, lore rich plots and quests for Dungeons & Dragons, or crafting an ecosystem of history for video game use.
 
 I take great pleasure in building something to explore. It’s the experience. The thrill of reading or seeing or encountering something unique.
-
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
 
 ### PROFESSIONAL EXPERIENCE
 
