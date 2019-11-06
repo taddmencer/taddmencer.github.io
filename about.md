@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: About Tadd
-description: Tech professional by day, creative one-man think tank by night. 
+description: I write stories, do voices, make & play video games, and Dungeons & Dragons. I run Cubelab Media. A father, husband, and generally friendly guy.
 tags: [about, Tadd, games, design]
 image:
   feature: about_bg.jpg
