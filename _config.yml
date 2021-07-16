@@ -37,7 +37,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Detroit
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 kramdown:
@@ -62,3 +62,6 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+plugins:
+  - jekyll-seo-tag
