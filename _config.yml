@@ -10,8 +10,14 @@ owner:
   avatar:         avatar.png
   bio:            "Story Teller & World Smith"
   email:          taddmencer01@gmail.com
+  twitter:        
+  github:         
   linkedin:       taddmencer
+  instagram:      
+  dribbble:       
+  disqus:         TaddMencer
   location:       "Grand Rapids, MI"
+  # Plug in your disqus shortname!
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
