@@ -3,9 +3,9 @@ layout: post
 permalink: /about/index.html
 title: About Tadd
 description: I write stories, do voices, make & play video games, and Dungeons & Dragons. I run Cubelab Media. A father, husband, and generally friendly guy.
-tags: [about, Tadd, games, design]
+tags: [about, Tadd Mencer, story writer, voice over actor, game player]
 image:
-  feature: about_bg.jpg
+  feature: tm-about.jpg
 ---
 
 I’ve been constructing websites, generating digital marketing campaigns, and creating games for over twenty years. I have experience in software like Adobe Photoshop, Affinity Designer, Blender 3D, and Unity 3D. I have created game assets for both 2D and 3D games. I have also established branding for products across different media, such as web and print.
@@ -36,4 +36,3 @@ _Web and Marketing_
 * Establishing brand structures for better recognition across multiple platforms and products
 * Structuring email campaigns that increase user engagement
 * Constructing mobile web prototypes that utilize modern practices
-{"mode":"full","isActive":false}
