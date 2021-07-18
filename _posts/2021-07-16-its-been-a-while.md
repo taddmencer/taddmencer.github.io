@@ -1,8 +1,7 @@
 ---
 layout: post-no-feature
 title: "It's Been a While"
-description: "Once when I was six years old I saw a magniﬁcent picture in a book, called
-True Stories from Nature, about the primeval forest."
+description: "It's time to get off my tuff and do be more than just another number in the tally of people who could have been."
 comments: true
 category: articles
 ---
