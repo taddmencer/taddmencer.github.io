@@ -14,7 +14,7 @@ An avid storyteller, I am the most thrilled when building worlds and story that 
 
 I take great pleasure in building something to explore. It’s the experience. The thrill of reading or seeing or encountering something unique.
 
-![Hey there. I am tadd.](/assets/images/i-am-tadd.jpg "Hey there. I am tadd.")
+![Hey there. I am tadd.]({{ site.url }}/images/i-am-tadd.jpg "Hey there. I am tadd.")
 
 
 ### PROFESSIONAL EXPERIENCE
