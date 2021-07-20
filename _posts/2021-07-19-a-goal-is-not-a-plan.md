@@ -3,6 +3,7 @@ layout: post-light-feature
 title: A Goal is Not a Plan
 description: "In a previous job I was honored and blessed to be both the marketing manager and project manager. I was in charge of making things happen successfully and on time."
 categories: articles
+comments: true
 date: 2021-07-19
 image: 
         feature: a-goal-is-not-a-plan.jpg
