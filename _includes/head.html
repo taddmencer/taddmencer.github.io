@@ -32,6 +32,19 @@
 
   gtag('config', 'G-HRHGKB7SZJ');
 </script>
+  
+  <!-- OPen external links in new tab -->
+  <script>
+    var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+
+    if (links[i].hostname != window.location.hostname) {
+        links[i].target = '_blank';
+    }
+
+}
+    </script>
 
 <meta name="google-site-verification" content="rOjNEn5n34YuQErB67xJAnL5oxUS0y53d4ft6VtAyjE" />
 
