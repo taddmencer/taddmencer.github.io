@@ -11,6 +11,8 @@ image:
   feature: onlinebusiness.jpg
 ---
 
+{% include affiliates.html %}
+
 Everyone is looking for that next big side hustle. Something to make a little extra money. Or a full-time living. Especially as we’re pulling out of the nightmare of 2020 and trying to pick up the pieces of our lives. We want to create something of our own so if our job closes shop, we have something to fall back on. After all, we can only rely on government handouts for so long before that dries up.
 
 ## Enter Print-On-Demand
