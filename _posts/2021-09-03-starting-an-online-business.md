@@ -28,10 +28,10 @@ Once you sign up for your free account, you select “Super Powers (apps)” in 
 ### Get a Domain Name from NameCheap
 This is the only step that costs money, but it’s not a huge investment. I highly recommend <a href="https://www.tkqlhce.com/f9104qgpmgo35448C65B435586A989" target="_blank">NameCheap</a>. I use them exclusively for my domain name purchasing needs, as well as for a Wordpress site I run. They have a lot of great services, but their prices are fantastic. Any time I had issues or questions, their staff was knowledgeable and helpful.
 Just type the name you’re interested in to see if it’s available. They’ll also recommend other names if yours is taken. Very nice! 
-And as you see, right now you can get a .com for &dollar;5.98 a year, which is really amazing!
+And as you see, right now you can get a .com for $5.98 a year, which is really amazing!
 Now that you have everything ordered, you can go back to your LaunchCart store, go to “Settings” and click “Custom Domain” and follow the easy-to-understand instructions to add a domain.
 
-To recap: For less than &dollar;6 a year you can start a fully functioning eCommerce business. Have zero inventory you need to manage. And start building a future for yourself, your family, and your wellbeing.
+To recap: For less than $6 a year you can start a fully functioning eCommerce business. Have zero inventory you need to manage. And start building a future for yourself, your family, and your wellbeing.
 
 I’ll be creating more like this in the near future. More step-by-step guides. I’ll be diving more into the marketing aspect, SEO, and general business practice. How to drive organic traffic. 
 Comment below if you have any questions!
