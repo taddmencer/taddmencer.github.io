@@ -1,9 +1,9 @@
 ---
 published: true
 layout: post-light-feature
-description: >-
-  You can create an online, ecommerce business, with no inventory, for as little
-  as $6.
+title: How to Start an Online Business on the Cheap
+description: Did you know that you  can create an online, ecommerce business, with no inventory, for as little
+  as $6?
 categories: articles
 comments: true
 date: 2021-09-03 T00:00:00.000Z
