@@ -52,6 +52,56 @@
         </content>
     </entry>
     <entry>
+        <title>About</title>
+        <author>
+            <name>Tadd Mencer</name>
+        </author>
+        <link href="http://taddmencer.com/about-2/"/>
+        <id>http://taddmencer.com/about-2/</id>
+
+        <updated>2022-01-21T15:44:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://taddmencer.com/media/posts/313/tm-about.jpg" alt="" />
+                     I write stories, do voices, make &amp; play video games, and Dungeons &amp; Dragons. I run Cubelab Media. A father, husband, and generally friendly guy. I’ve been constructing websites, generating digital marketing campaigns, and creating games for over twenty years. I have experience in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://taddmencer.com/media/posts/313/tm-about.jpg" alt="" />
+                <header class="post-header">
+<h2 class="intro">I write stories, do voices, make &amp; play video games, and Dungeons &amp; Dragons. I run Cubelab Media. A father, husband, and generally friendly guy.</h2>
+</header>
+<p>I’ve been constructing websites, generating digital marketing campaigns, and creating games for over twenty years. I have experience in software like Adobe Photoshop, Affinity Designer, Blender 3D, and Unity 3D. I have created game assets for both 2D and 3D games. I have also established branding for products across different media, such as web and print.</p>
+<p>An avid storyteller, I am the most thrilled when building worlds and story that enthrall and inspire. I love creating deep, lore rich plots and quests for Dungeons &amp; Dragons, or crafting an ecosystem of history for video game use.</p>
+<p>I take great pleasure in building something to explore. It’s the experience. The thrill of reading or seeing or encountering something unique.</p>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: 18.4px; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="http://taddmencer.com/media/posts/313/i-am-tadd.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://taddmencer.com/media/posts/313/responsive/i-am-tadd-xs.jpg 300w ,http://taddmencer.com/media/posts/313/responsive/i-am-tadd-sm.jpg 480w ,http://taddmencer.com/media/posts/313/responsive/i-am-tadd-md.jpg 768w ,http://taddmencer.com/media/posts/313/responsive/i-am-tadd-lg.jpg 1024w ,http://taddmencer.com/media/posts/313/responsive/i-am-tadd-xl.jpg 1360w ,http://taddmencer.com/media/posts/313/responsive/i-am-tadd-2xl.jpg 1600w"  alt="" width="1080" height="400"></figure>
+<h3 id="professional-experience">PROFESSIONAL EXPERIENCE</h3>
+<p class="msg msg--highlight "><em>Game Design/Development &amp; Project Experience</em></p>
+<ul>
+<li>Forging interactive low poly 3D game levels using Blender and Unity</li>
+<li>Designing UI/UX menus, displays, and assets for in-game utilization</li>
+<li>Creating exciting experiences for players including the ideation of characters and obstacles</li>
+<li>Utilizing Blender and Unity to create an augmented reality prototype</li>
+<li>Designed Circus Big Pop Lite iOS Mobile Game in LUA Language which has been downloaded over 2000 times.</li>
+<li>Constructed prototype Project Marcus PC first-person 3D using Unity and Blender 3D</li>
+</ul>
+<p class="msg msg--success msg--highlight "><em>Communications</em></p>
+<ul>
+<li>Organizing projects with out of country developers for mobile and web use</li>
+<li>Weaving multi-plot stories and quests used in Dungeons &amp; Dragons</li>
+<li>Possessing strong verbal and written communication skills</li>
+</ul>
+<p class="msg msg--highlight "><em>Web and Marketing</em></p>
+<ul>
+<li>Establishing brand structures for better recognition across multiple platforms and products</li>
+<li>Structuring email campaigns that increase user engagement</li>
+<li>Constructing mobile web prototypes that utilize modern practices</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>A Goal is Not a Plan</title>
         <author>
             <name>Tadd Mencer</name>
@@ -334,52 +384,6 @@ Find <em>something</em> that inspired or entranced you, and comment on this post
 <p>There are other distractions I need to slowly weed out. I love watching movies and such. However, it may come to the point where I need to block certain websites from my laptop in order to keep myself from becoming distracted.</p>
 <p>It's hard to admit. However, in the end, it's better for me. Less to focus on means more focus to use on what I want and need.</p>
 <p>What sort of things distract you from meeting your life-goal? Are these something to pursue or should they be purged?</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>5 Awesome and Free Software Packages</title>
-        <author>
-            <name>Tadd Mencer</name>
-        </author>
-        <link href="http://taddmencer.com/5-awesome-and-free-software-packages/"/>
-        <id>http://taddmencer.com/5-awesome-and-free-software-packages/</id>
-
-        <updated>2022-01-21T11:28:37-05:00</updated>
-            <summary>
-                <![CDATA[
-                    For those who know me, I've tossed the term "open source software" around like it was confetti at a parade. Open Source Software are programs that are developed generally through a collaborative effort by the internet community. It is also generally free and you can&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>For those who know me, I've tossed the term "open source software" around like it was confetti at a parade.</p>
-<p>Open Source Software are programs that are developed generally through a collaborative effort by the internet community. It is also generally free and you can download the source code and modify as you like (depending on the licensing).</p>
-<p>It's been a stigma that free and/or open source software can't be that professional since it doesn't have the stamp of industry standard on it. However, today, some of this software has become less bloated and even more professional than some of the mainstream software.</p>
-<p>Here are five examples of awesome software you can adapt to your workflow that will blow your mind!</p>
-<h2><a href="http://www.blender.org" target="_blank">Blender</a></h2>
-<figure class="aligncenter size-full wp-image-1254">
-<img loading="lazy"  title="blender" src="http://taddmencer.com/media/posts/301/blender.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://taddmencer.com/media/posts/301/responsive/blender-xs.jpg 300w ,http://taddmencer.com/media/posts/301/responsive/blender-sm.jpg 480w ,http://taddmencer.com/media/posts/301/responsive/blender-md.jpg 768w ,http://taddmencer.com/media/posts/301/responsive/blender-lg.jpg 1024w ,http://taddmencer.com/media/posts/301/responsive/blender-xl.jpg 1360w ,http://taddmencer.com/media/posts/301/responsive/blender-2xl.jpg 1600w"  alt="" width="500" height="280" /></figure>This is a great replacement for the high-end 3D software like Maya, 3D Studio Max and Cinema 4d. While has its limitations, Blender has come a MASSIVELY long way from its beginning. It was the main software behind the independent short-films "Elephant's Dream", "Big Buck Bunny" and the latest, "Sintel".
-<strong>Alternative to:</strong> 3D Studio Max, Maya, Cinema 4D, Lightwave, XSI, Messiah</p>
-<h2><a href="http://www.gimp.org" target="_blank">Gimp</a></h2>
-<figure class="aligncenter size-full wp-image-1255">
-<img loading="lazy"  title="gimp" src="http://taddmencer.com/media/posts/301/gimp.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://taddmencer.com/media/posts/301/responsive/gimp-xs.jpg 300w ,http://taddmencer.com/media/posts/301/responsive/gimp-sm.jpg 480w ,http://taddmencer.com/media/posts/301/responsive/gimp-md.jpg 768w ,http://taddmencer.com/media/posts/301/responsive/gimp-lg.jpg 1024w ,http://taddmencer.com/media/posts/301/responsive/gimp-xl.jpg 1360w ,http://taddmencer.com/media/posts/301/responsive/gimp-2xl.jpg 1600w"  alt="" width="500" height="280" /></figure>This software has been around for a while, and while not in my current flow has really shown some strength that I didn't see before. It's real power is if you're a photographer. It has some amazing features in this arena that honestly propels it ahead of Photoshop, the main competition. While not as feature rich as other paid software (no 3D abilities hurts me), it really has a great place for any artist.
-<strong>Alternative to:</strong> Photoshop, Fireworks, Paint Shop Pro</p>
-<h2><a href="http://www.makehuman.org" target="_blank">makeHuman</a></h2>
-<figure class="aligncenter size-full wp-image-1256">
-<img loading="lazy"  title="MakeHuman" src="http://taddmencer.com/media/posts/301/MakeHuman.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://taddmencer.com/media/posts/301/responsive/MakeHuman-xs.jpg 300w ,http://taddmencer.com/media/posts/301/responsive/MakeHuman-sm.jpg 480w ,http://taddmencer.com/media/posts/301/responsive/MakeHuman-md.jpg 768w ,http://taddmencer.com/media/posts/301/responsive/MakeHuman-lg.jpg 1024w ,http://taddmencer.com/media/posts/301/responsive/MakeHuman-xl.jpg 1360w ,http://taddmencer.com/media/posts/301/responsive/MakeHuman-2xl.jpg 1600w"  alt="" width="500" height="280" /></figure>There really isn't a lot going on in the realm of software to generate humans. But makeHuman really rockets itself into the fray like a sugar-high teen at a metal show. Endless possibilities, soon the ability to pose your model and the ability to export in nearly any useable format, makeHuman really sets itself to be one of the more useful softwares for any freelance artist.
-<strong>Alternative to:</strong> e-Frontier Poser</p>
-<h2><a href="http://mypaint.intilinux.com/" target="_blank">MyPaint</a></h2>
-<figure class="aligncenter size-full wp-image-1257">
-<img loading="lazy"  title="mypaint" src="http://taddmencer.com/media/posts/301/mypaint.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://taddmencer.com/media/posts/301/responsive/mypaint-xs.jpg 300w ,http://taddmencer.com/media/posts/301/responsive/mypaint-sm.jpg 480w ,http://taddmencer.com/media/posts/301/responsive/mypaint-md.jpg 768w ,http://taddmencer.com/media/posts/301/responsive/mypaint-lg.jpg 1024w ,http://taddmencer.com/media/posts/301/responsive/mypaint-xl.jpg 1360w ,http://taddmencer.com/media/posts/301/responsive/mypaint-2xl.jpg 1600w"  alt="" width="500" height="280" /></figure>This is a software I've only found recently and I have to say I'm impressed by its ability. The brushes and power of this FREE software is amazing. One artist friend I introduced MyPaint too said "the brushes feel better than ArtRage" and that it was "inspiring".
-<strong>Alternative to:</strong> Photoshop, Corel Painter, ArtRage</p>
-<h2><a href="http://al.chemy.org/" target="_blank">Alchemy</a></h2>
-<figure class="aligncenter size-full wp-image-1258">
-<img loading="lazy"  title="alchemy" src="http://taddmencer.com/media/posts/301/alchemy.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://taddmencer.com/media/posts/301/responsive/alchemy-xs.jpg 300w ,http://taddmencer.com/media/posts/301/responsive/alchemy-sm.jpg 480w ,http://taddmencer.com/media/posts/301/responsive/alchemy-md.jpg 768w ,http://taddmencer.com/media/posts/301/responsive/alchemy-lg.jpg 1024w ,http://taddmencer.com/media/posts/301/responsive/alchemy-xl.jpg 1360w ,http://taddmencer.com/media/posts/301/responsive/alchemy-2xl.jpg 1600w"  alt="" width="500" height="280" /></figure>The final offering is a weird software called "Alchemy". It's an amazing, inspiring and innovative piece of software. It's impossible for me to describe it so here is what they say on their website!</p>
-<p>Alchemy is an open drawing project aimed at exploring how we can sketch, draw, and create on computers in new ways. Alchemy isn’t software for creating finished artwork, but rather a sketching environment that focuses on the absolute initial stage of the creation process. Experimental in nature, Alchemy lets you brainstorm visually to explore an expanded range of ideas and possibilities in a serendipitous way.</p>
-<p>There is nothing like it ... it's really fun to use and easy to come up with crazy designs.</p>
-<p>Now, go grab some free software and get creative!</p>
 
             ]]>
         </content>
